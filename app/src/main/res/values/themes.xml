@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.PontoLembrete" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/button_primary</item>
+        <item name="colorPrimaryVariant">#0D47A1</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/success_green</item>
+        <item name="colorSecondaryVariant">#1B5E20</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor">@color/button_primary</item>
+        <item name="android:navigationBarColor">@color/button_primary</item>
+    </style>
+</resources>
